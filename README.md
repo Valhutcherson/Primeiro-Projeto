@@ -17,6 +17,6 @@
 
   <table>
   <tr>
-    <td align="center"><a href="https://github.com/Valhutcherson"><img src="https://avatars.githubusercontent.com/u/83038670?v=4" width="100px;" alt=""/><br /><sub><b>Valesca Marinho</b></sub></a><br /><a href="" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Valhutcherson"><img src="https://avatars.githubusercontent.com/u/113068971?v=4" width="100px;" alt=""/><br /><sub><b>Valesca Marinho</b></sub></a><br /><a href="" title="Code">💻</a></td>
   </tr>
 </table>
